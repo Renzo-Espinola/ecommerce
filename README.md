@@ -1,33 +1,3 @@
-# CHACO DEVS TEAM - PROYECTO INTEGRADOR
-
-<p align="center">
-    <img width="100%" src="https://user-images.githubusercontent.com/70241433/233533920-47091762-ed02-441c-bcb9-02b0112a2dc4.gif"> 
-</p>
-
-# **Integrantes**
-
-:godmode:Balbuena, Fernando Nicolas 
-
-:godmode:Espinola, Renzo Oscar    
-
-:godmode:Giménez Ríos, Tatiana T.  
-
-:godmode:Gutiérrez, Juana Natalia   
-
-:godmode:Gutiérrez, Alejo Hernán 
-
-:godmode:Gutiérrez, Juan Carlos 
-
-:godmode:Gutiérrez, René Agustín
-
-:godmode:Iván, Matías 
-
-:godmode:Rossi, Ludmila
-
-:godmode:Valdez, Carlos Federico
-
-:godmode:Valladares, Juan Ignacio
-
 # BACKEND
 
 ![image](https://github.com/CodeSystem2022/ChacoDevsTeam_ProyectoIntegradorCuartoSemestre/assets/70241433/7862184c-c060-4eac-999b-ad2ae4fc8147)
