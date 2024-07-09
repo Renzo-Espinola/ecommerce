@@ -1,0 +1,46 @@
+.SearchBar {
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .SearchBar input {
+    font-family: 'Roboto', sans-serif!important;
+    width: 500px;
+    height: 40px;
+    border-radius: 25px;
+    border-color: transparent!important;
+  }
+  
+  .btn-outline-success {
+    border-color: transparent!important;
+    border-radius: 20px;
+    background-color: transparent;
+    margin-left: 5px;
+  }
+  
+  .btn-outline-success img {
+    height: 35px;
+    
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #f7ba66;
+    border-color: transparent!important;
+  }
+
+
+  .mostrartodos {
+    background-color: #e00e07; 
+    color: #ffffff; 
+    padding: 5px 10px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 13px; 
+    font-family: Montserrat;
+    
+  }
+  
+  .mostrartodos:hover {
+    background-color: #1eb3ae; 
+  }
